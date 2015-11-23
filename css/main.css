@@ -94,11 +94,73 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.logo img {
+	float: left;
+	width: 280px;
+	height: 230px;
+	}
 
+.nav ul {
+	font-family: 'Merriweather', serif;
+	font-size: 1.23em;
+	color: #665847;
+	list-style-type: none;
+	padding: 5px 5px 5px 5px;
+	}
 
+.nav li {
+	display: inline;
+	float: center;
+	padding-left: 30px;
+	}
 
+.banner img {
+	max-width: 100%;
+	}
 
+.desserts {
+    position: relative;
+    float: left;
+    clear: none;
+    overflow: hidden;
+    width: 100%;
+    padding: 0.1em;
+    }
 
+.desserts img {
+	width: 650px;
+	height: 500px;
+    max-width: 100%;
+    background-color: #fff;
+    padding: 2em;
+    }
+
+.desserts ul {
+    list-style: none;
+    padding: 0;
+    }
+
+.desserts li {
+    width: 49.5%;
+    margin-right: .5%;
+    margin-bottom: .5%;
+    float: left;
+    position: relative;
+    }
+
+.desserts figcaption {
+    text-decoration: none;
+    font-family: 'Merriweather', serif;
+    color: #000;
+    font-size: 1.5em;
+    font-weight: bold;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    }
 
 
 
