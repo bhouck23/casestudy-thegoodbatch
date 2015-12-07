@@ -145,7 +145,7 @@ html{
 	padding: 50px 30px 10px 0px;
 
 	}
-	
+
 .shoppingcart li {
 	display: inline;
 	float: left;
@@ -156,7 +156,7 @@ html{
 	font-size: 1.1em;
 	border-right: 1px solid #c3ab8c;
 	}
-	
+
 .shoppingcart li:last-child { border-right: none; }
 
 .shoppingcart li:hover {
@@ -167,7 +167,7 @@ html{
 	position: relative;
 
 	}
-	
+
 .main-content img {
 	max-width: 100%;
 	z-index: -20;
@@ -185,14 +185,14 @@ html{
     right: 5%;
     transform: translate(-50%, -50%)
 	}
-		
+
 .main-content .photo-content h1 {
 	font-family: 'Merriweather', serif;
 	font-size: 4em;
 	color: white;
 	}
-	
-	
+
+
 .main-content .photo-content img {
 	float: left;
 	height: 190px;
@@ -200,8 +200,8 @@ html{
 	padding-left: 50px;
 
 	}
-	
-	
+
+
 .main-content .photo-content h3 {
 	font-family: 'Merriweather', serif;
 	text-transform:uppercase;
@@ -219,26 +219,26 @@ html{
   	padding-top: 70px;
   	padding-bottom: 60px;
 	}
-	
-.left-column {	
-	padding: 0px 30px 30px 180px;
+
+.left-column {
+	padding: 0px 30px 30px 200px;
 	float: left;
 	position: relative;
 	}
-	
+
 .left-column img {
 	width: 475px;
 	height: 350px;
 	padding: 0px;
-	
+
 	}
-	
-.left-column header {	
+
+.left-column header {
 	background-color: white;
 	width: 475px;
 	height: 120px;
 	}
-	
+
 .left-column h3 {
 	font-family: 'Merriweather', serif;
 	color: #5C4033;
@@ -255,7 +255,7 @@ html{
 	padding-left: 20px;
 	padding-top: 30px;
 	}
-	
+
 .left-column h4 {
 	font-family: 'Merriweather', serif;
 	color: #CDB79E;
@@ -284,7 +284,7 @@ html{
 	width: 475px;
 	height: 120px;
 	border-bottom: 2px solid #ddd9d6;
-	
+
 	}
 
 
@@ -295,20 +295,20 @@ html{
 	position: relative;
 
 	}
-	
+
 .right-column img {
 	width: 475px;
 	height: 350px;
 	padding: 0px;
-	
+
 	}
-	
-.right-column header {	
+
+.right-column header {
 	background-color: white;
 	width: 475px;
 	height: 120px;
 	}
-	
+
 .right-column h3 {
 	font-family: 'Merriweather', serif;
 	color: #5C4033;
@@ -325,7 +325,7 @@ html{
 	padding-left: 20px;
 	padding-top: 30px;
 	}
-	
+
 .right-column h4 {
 	font-family: 'Merriweather', serif;
 	color: #CDB79E;
@@ -354,7 +354,7 @@ html{
 	width: 475px;
 	height: 120px;
 	border-bottom: 2px solid #ddd9d6;
-	
+
 	}
 
 .footer {
@@ -375,21 +375,21 @@ html{
 	position: relative;
 	float: left;
 	}
-	
+
 .footer .address h2 {
 	font-family: 'Merriweather', serif;
 	color: #6F4E37;
 	text-decoration: bold;
 	padding: 50px 0px 0px 30px;
-	
+
 	}
-	
+
 .footer .address h3 {
 	font-family: 'Merriweather', serif;
 	color: #6F4E37;
 	padding: 0px 20px 90px 30px;
 	}
-	
+
 .footer .contact {
 	font-family: 'Merriweather', serif;
 	color: #fff;
@@ -412,12 +412,12 @@ html{
 	padding: 50px 200px 10px 250px;
 	}
 
-	
+
 .footer .form .mailing-list  {
 	font-family: 'Merriweather', serif;
 	padding: 0px 0px 50px 230px;
 	}
-	
+
 .footer .form .mailing-list .submit {
 	font-family: 'Oswald', sans-serif;
 	color: #fff;
@@ -438,13 +438,13 @@ html{
 	float: right;
 	padding: 50px 40px 0px 0px;
 	}
-	
+
 .footer .follow-us h2 {
 	font-family: 'Merriweather', serif;
 	color: #6F4E37;
 	padding: 0px 10px 0px 20px;
 	}
-	
+
 .footer .follow-us img {
 	width: 100px;
 	height: 70px;
@@ -476,7 +476,7 @@ html{
 .footer .copyright .raygun:hover {
 	color: #5C4033;
 	}
-	
+
 
 
 
